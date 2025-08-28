@@ -1,4 +1,4 @@
-package com.voting.provider1.controller;
+package com.voting.provider2.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/")
     public String hello(){
-        return "Hello World! from Provider 1";
+        return "Hello World! from Provider 2";
     }
 
 

@@ -1,10 +1,10 @@
-package com.voting.springclouddemo;
+package com.voting.provider2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCloudDemoApplicationTests {
+class Provider2ApplicationTests {
 
     @Test
     void contextLoads() {
